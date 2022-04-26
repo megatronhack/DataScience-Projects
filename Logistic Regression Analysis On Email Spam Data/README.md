@@ -1,3 +1,3 @@
-This report is about performing logistic regression over the given dataset which has a shape of (3921,21) in which we have to predict or classify weather the given email is spam or not using the logistic regression and analyse the result.<BR/>
+This report is about performing logistic regression over the email spam dataset to predict or classify wheather the given email is spam or not using the logistic regression and analyse the result.<BR/>
 we analysing the given data set using different Pandas functions and performing model building,analysing summary, predicting over the test data, plotting, finding optimal threshold, ROC curve. <BR/>
 In the end, we find the AUC and judge the efficiency of the model and find the optimal point in ROC curve finally getting threshold.
