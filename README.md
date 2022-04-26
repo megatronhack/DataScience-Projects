@@ -17,7 +17,7 @@ We are choosing twitter to work with because we believe Twitter is one of the mo
 <br/>
 <br/>
 
-## Artificial Neural Network Model Build from Scrach
+## Artificial Neural Network Model Build From Scrach
 This project is using artificial neuron network models to perform addition with two inputs and multiplication with two inputs.
 <br/>
 <br/>
