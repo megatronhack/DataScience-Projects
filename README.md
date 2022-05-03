@@ -29,7 +29,7 @@ This project is using artificial neuron network models to perform addition with 
 # Data Analysis Projects
 
 ## Logistic Regression Analysis On Email Spam Data
-This report is about performing logistic regression over the email spam dataset to predict or classify wheather the given email is spam or not using the logistic regression and analyse the result.<BR/>
+This report is about performing logistic regression over the email spam dataset to predict or classify whether the given email is spam or not using the logistic regression and analyse the result.<BR/>
 <br/>
 <br/>
 
