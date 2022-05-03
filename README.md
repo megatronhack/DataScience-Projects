@@ -11,9 +11,13 @@ Three methods<br/>
 <br/>
 <br/>
 
+## MOVIE RECOMMENDATIONS ON STREAMLIT WEB
+Run cosine similarity model on self-hosted web using streamlit  
+<br/>
+<br/>
+
 ## Twitter Sentiment Analysis On Tweets From Twitter API
-Implementing machine learning sentiment analysis models on tweets to classify and compute public sentiment.
-We are choosing twitter to work with because we believe Twitter is one of the most important social media platforms and it has a better evaluation of public sentiment than other social media platforms.  
+Implementing machine learning sentiment analysis models on tweets to classify and compute public sentiment.  
 <br/>
 <br/>
 
