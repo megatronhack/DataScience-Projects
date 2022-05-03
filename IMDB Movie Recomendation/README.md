@@ -3,6 +3,10 @@
 
 Movie Recommendation analysis would provide valuable business insights that drive decisions, as it is able to recommend real-time streamed movies and classify the movie based on user preference.
 
+### Model
+
+Cosine similarity
+
 ### How to use
 
 - Create virtual environment and Activate venv
