@@ -1,1 +1,3 @@
-This project is using artificial neuron network models to perform addition with two inputs and multiplication with two inputs.  To test the accuracy, we are using and changing parameters such as iterations, regularization parameter, learning rate, number of hidden layer nodes.
+Buidling artificial neural network model from scrach. </br>
+Performing addition with two inputs and multiplication with two inputs. </br>
+And to the test the accuracy,  we can change parameters such as iterations, regularization parameter, learning rate, number of hidden layer nodes.

@@ -1,37 +1,28 @@
-# Machine Learning Projects
+# Machine Learning
 
+## [Integrated Machine Learning Algorithms Classification](https://github.com/megatronhack/DataScience-Projects/blob/main/Anova%20Analysis%20On%20School%20Data/readme.md)
+Implementing integrated machine learning algorithms on the mobile dataset to find the best machine learning model/method<br/>
 
-## ML Algorithms On Mobile Price Classification Dataset
-### GOAL 
-Find the best machine learning model/method for our dataset<br/>
-Three methods<br/>
-### "i":  Classifier methods <br/>
-### "ii": Ensemble method  <br/>
-### "iii":Deep learning, neural network method <br/>
-<br/>
+## Movie Recommendation Website
+Self-hosted web using streamlit library with cosine similarity model
 <br/>
 
-## MOVIE RECOMMENDATIONS ON STREAMLIT WEB
-Run cosine similarity model on self-hosted web using streamlit  
-<br/>
+## Twitter Sentiment Analysis
+Implementing natural language processing libraries on tweets to classify public sentiment through Twitter API.
 <br/>
 
-## Twitter Sentiment Analysis On Tweets From Twitter API
-Implementing machine learning sentiment analysis models on tweets to classify and compute public sentiment.  
-<br/>
-<br/>
+## k-mean clustering analysis
+Performing k-mean clustering analysis on wine data set.
 
 ## Artificial Neural Network Model Build From Scrach
-This project is using artificial neuron network models to perform addition with two inputs and multiplication with two inputs.
+Build from scratch of artificial neural network model to perform addition and multiplication with two inputs, and test accuracy by changing parameters.
 <br/>
 <br/>
 
-# Data Analysis Projects
-
-## Logistic Regression Analysis On Email Spam Data
-This report is about performing logistic regression over the email spam dataset to predict or classify whether the given email is spam or not using the logistic regression and analyse the result.<BR/>
-<br/>
+# Data Analysis 
+## Logistic Regression Analysis
+Performing logistic regression on the email spam dataset to predict or classify whether the given email is spam.
 <br/>
 
-## Anova Analysis On School Data
-One way anova analysis of school dataset. The goal is to find out if the means of the dataset are varied from each other.
+## Anova Analysis
+Performing one way anova analysis on school dataset.

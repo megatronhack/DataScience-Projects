@@ -1,0 +1,1 @@
+Implementing natural language processing libraries on tweets to classify public sentiment through Twitter API.
