@@ -11,8 +11,8 @@ Self-hosted web using streamlit library with cosine similarity model.
 Implementing natural language processing libraries on tweets to classify public sentiment through Twitter API.
 <br/>
 
-## [k-mean clustering Analysis](https://github.com/megatronhack/DataScience-Projects/tree/main/K-Mean%20Clustering%20Analysis)
-Performing k-mean clustering analysis on wine data set.
+## [K-Mean Clustering Analysis](https://github.com/megatronhack/DataScience-Projects/tree/main/K-Mean%20Clustering%20Analysis)
+Performing K-Mean clustering analysis on wine data set.
 
 ## [Artificial Neural Network Model Build From Scrach](https://github.com/megatronhack/DataScience-Projects/tree/main/Artificial%20Neural%20Network%20Model%20Build%20from%20Scrach)
 Build from scratch of artificial neural network model to perform addition and multiplication with two inputs, and test accuracy by changing parameters.
